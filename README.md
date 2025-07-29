@@ -11,7 +11,7 @@
 ### 🚀 O que estou aprendendo e explorando:
 - **Análise de Dados com Python:** Pandas, NumPy e Matplotlib para manipulação e visualização de dados.
 - **Machine Learning:** Fundamentos de modelos preditivos com Scikit-learn.
-- **Eletrônica e Automação:** Desenvolvimento de sistemas de controle com C/C++ e microcontroladores.
+- **Eletrônica e Automação:** Desenvolvimento de sistemas de controle com C#/C++ e microcontroladores.
 
 ---
 
